@@ -8,13 +8,13 @@ In addition, the codebook of the new data set and the script performed to achiev
 ## Description of the project
 The objective of the project was to create a simplified version of the original data set. To achieve this, several modifications were carried on:
 
-*combining the train and test data sets.
+1.  combining the train and test data sets.
 
-*replacing the variable names with more indicative ones.
+2.  replacing the variable names with more indicative ones.
 
-*extracting only std and mean columns of all the features.
+3.  extracting only std and mean columns of all the features.
 
-*calculating the mean of each feature grouped by subject and activity performed
+4.  calculating the mean of each feature grouped by subject and activity performed
 
 
 ## Files
