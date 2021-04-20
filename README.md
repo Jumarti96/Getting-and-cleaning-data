@@ -22,7 +22,7 @@ This repository contains the following files:
 
 **tidy_UCI_HAR_data.csv:** modified version of the "Human Activity Recognition Using Smartphones" data set.
 
-**cleaning data project.R:** script performed to clean and reduce the data of the original data set.
+**run_analysis.R:** script performed to clean and reduce the data of the original data set.
 
 **codebook.md:** speficiations of the data set and description of the data.
 
